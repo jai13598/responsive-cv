@@ -1,0 +1,47 @@
+.left_part {
+    position: absolute;
+    left: 0px;
+    width: 355px;
+    height: 100%;
+    background-color: #96BAFF;
+    color: white;
+    padding: 50px;
+}
+
+.pic {
+    width: 190px;
+    height: 195px;
+    border-radius: 75pt;
+}
+
+.right-part {
+    padding-top: 30px;
+    padding-left: 20px;
+    position: absolute;
+    left: 370px;
+    height: 100%;
+    color: #7579E7;
+}
+
+#name {
+    font-style: normal;
+    left: 5px;
+}
+
+#fullstack {
+    padding-left: 20px;
+}
+
+#aboutMe {
+    color: black;
+    font: bolder;
+    padding-left: 5px;
+}
+
+.education {
+    color: black;
+}
+
+#projects {
+    color: black;
+}
